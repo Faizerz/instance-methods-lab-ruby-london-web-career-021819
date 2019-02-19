@@ -6,6 +6,6 @@ class Person
     puts "The Person is walking"
   end
   def squawk
-    puts "kaaaa"
+    puts "kaaa"
   end
 end
